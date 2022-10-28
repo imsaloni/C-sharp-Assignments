@@ -1,0 +1,5 @@
+D:\sql\capgemini\assignmentC#\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+D:\sql\capgemini\assignmentC#\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+D:\sql\capgemini\assignmentC#\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+D:\sql\capgemini\assignmentC#\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+D:\sql\capgemini\assignmentC#\Assignment5\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache

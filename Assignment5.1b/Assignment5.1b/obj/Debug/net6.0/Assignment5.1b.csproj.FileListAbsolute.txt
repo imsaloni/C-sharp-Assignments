@@ -1,0 +1,15 @@
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\bin\Debug\net6.0\Assignment5.1b.exe
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\bin\Debug\net6.0\Assignment5.1b.deps.json
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\bin\Debug\net6.0\Assignment5.1b.runtimeconfig.json
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\bin\Debug\net6.0\Assignment5.1b.dll
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\bin\Debug\net6.0\Assignment5.1b.pdb
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.csproj.AssemblyReference.cache
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.GeneratedMSBuildEditorConfig.editorconfig
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.AssemblyInfoInputs.cache
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.AssemblyInfo.cs
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.csproj.CoreCompileInputs.cache
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.dll
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\refint\Assignment5.1b.dll
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.pdb
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\Assignment5.1b.genruntimeconfig.cache
+D:\sql\capgemini\assignmentC#\Assignment5.1b\Assignment5.1b\obj\Debug\net6.0\ref\Assignment5.1b.dll
