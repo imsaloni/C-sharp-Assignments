@@ -1,0 +1,15 @@
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\bin\Debug\net6.0\Assignment8.exe
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\bin\Debug\net6.0\Assignment8.deps.json
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\bin\Debug\net6.0\Assignment8.runtimeconfig.json
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\bin\Debug\net6.0\Assignment8.dll
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\bin\Debug\net6.0\Assignment8.pdb
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.csproj.AssemblyReference.cache
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfoInputs.cache
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.AssemblyInfo.cs
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.csproj.CoreCompileInputs.cache
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.dll
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\refint\Assignment8.dll
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.pdb
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\Assignment8.genruntimeconfig.cache
+D:\sql\capgemini\assignmentC#\Assignment8\Assignment8\obj\Debug\net6.0\ref\Assignment8.dll
