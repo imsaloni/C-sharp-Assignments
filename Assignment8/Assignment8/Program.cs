@@ -7,7 +7,7 @@ namespace Reflection
         static void Main(string[] args)
         {
             // Dynamically load assembly from file User.dll
-            Assembly assembly = Assembly.LoadFile(@"D:\User\User.dll");
+            Assembly assembly = Assembly.LoadFile(@"D:\sql\hello world\hello world\bin\Debug\net6.0\hello world.dll");
 
             // Get type of class 'User' from the loaded assembly  
             Type type = assembly.GetType("Reflection.User");
